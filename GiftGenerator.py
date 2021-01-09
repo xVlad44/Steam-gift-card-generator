@@ -36,7 +36,7 @@ opcion = int(input("Choice: "))
 if opcion==1:
 	os.system("cls")
 	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                         ["+Style.BRIGHT + Fore.BLUE + Back.BLACK +"+"+Style.BRIGHT + Fore.WHITE + Back.BLACK +"]"+ Style.BRIGHT + Fore.BLUE + Back.BLACK +"-------------------------------------------------------"+ Style.BRIGHT + Fore.WHITE + Back.BLACK +"["+ Style.BRIGHT + Fore.BLUE + Back.BLACK +"+"+ Style.BRIGHT + Fore.WHITE + Back.BLACK +"]")
-	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                                     SteamKey Generator"+Fore.WHITE+" Made by "+Fore.YELLOW+"Matty#8952")
+	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                                     SteamKey Generator"+Fore.WHITE+" Made by "+Fore.YELLOW+"Vlad44#7620")
 	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                         ["+Style.BRIGHT + Fore.BLUE + Back.BLACK +"+"+Style.BRIGHT + Fore.WHITE + Back.BLACK +"]"+ Style.BRIGHT + Fore.BLUE + Back.BLACK +"-------------------------------------------------------"+ Style.BRIGHT + Fore.WHITE + Back.BLACK +"["+ Style.BRIGHT + Fore.BLUE + Back.BLACK +"+"+ Style.BRIGHT + Fore.WHITE + Back.BLACK +"]")
 	cantidad = input(Style.BRIGHT + Fore.RED + Back.BLACK +"\nHow many giftcards want to generate: ")
 	while(int(count)<int(cantidad)):
@@ -51,7 +51,7 @@ if opcion==1:
 if opcion==2:
 	os.system("cls")
 	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                         ["+Style.BRIGHT + Fore.BLUE + Back.BLACK +"+"+Style.BRIGHT + Fore.WHITE + Back.BLACK +"]"+ Style.BRIGHT + Fore.BLUE + Back.BLACK +"-------------------------------------------------------"+ Style.BRIGHT + Fore.WHITE + Back.BLACK +"["+ Style.BRIGHT + Fore.BLUE + Back.BLACK +"+"+ Style.BRIGHT + Fore.WHITE + Back.BLACK +"]")
-	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                                     SteamKey Generator"+Fore.WHITE+" Made by "+Fore.YELLOW+"Matty#8952")
+	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                                     SteamKey Generator"+Fore.WHITE+" Made by "+Fore.YELLOW+"Vlad44#7620")
 	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                         ["+Style.BRIGHT + Fore.BLUE + Back.BLACK +"+"+Style.BRIGHT + Fore.WHITE + Back.BLACK +"]"+ Style.BRIGHT + Fore.BLUE + Back.BLACK +"-------------------------------------------------------"+ Style.BRIGHT + Fore.WHITE + Back.BLACK +"["+ Style.BRIGHT + Fore.BLUE + Back.BLACK +"+"+ Style.BRIGHT + Fore.WHITE + Back.BLACK +"]")
 	cantidad = input(Style.BRIGHT + Fore.RED + Back.BLACK +"\nHow many giftcards want to generate: ")
 	while(int(count)<int(cantidad)):
@@ -66,10 +66,9 @@ if opcion==2:
 if opcion==3:
 	os.system("cls")
 	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                         ["+Style.BRIGHT + Fore.BLUE + Back.BLACK +"+"+Style.BRIGHT + Fore.WHITE + Back.BLACK +"]"+ Style.BRIGHT + Fore.BLUE + Back.BLACK +"-------------------------------------------------------"+ Style.BRIGHT + Fore.WHITE + Back.BLACK +"["+ Style.BRIGHT + Fore.BLUE + Back.BLACK +"+"+ Style.BRIGHT + Fore.WHITE + Back.BLACK +"]")
-	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                                         SteamKey Generator"+Fore.WHITE+" Made by "+Fore.YELLOW+"Matty#8952")
+	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                                         SteamKey Generator"+Fore.WHITE+" Made by "+Fore.YELLOW+"Vlad44#7620")
 	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                                         [Github] "+Fore.YELLOW+"MattyTM")
-	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                                         [Discord] "+Fore.YELLOW+"Matty#8952")
-	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                                         [Server] "+Fore.YELLOW+"https://discord.gg/nKME7C7")
+	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                                         [Discord] "+Fore.YELLOW+"Vlad44#7620")
 	print(Style.BRIGHT + Fore.WHITE + Back.BLACK +"                         ["+Style.BRIGHT + Fore.BLUE + Back.BLACK +"+"+Style.BRIGHT + Fore.WHITE + Back.BLACK +"]"+ Style.BRIGHT + Fore.BLUE + Back.BLACK +"-------------------------------------------------------"+ Style.BRIGHT + Fore.WHITE + Back.BLACK +"["+ Style.BRIGHT + Fore.BLUE + Back.BLACK +"+"+ Style.BRIGHT + Fore.WHITE + Back.BLACK +"]")
 	input(Style.BRIGHT + Fore.RED + Back.BLACK +"\nEnter to exit")
 	os.system("cls")
