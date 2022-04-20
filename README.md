@@ -7,6 +7,6 @@ open the script on cmd via "python GiftGenerator.py"
 or just execute it.
 use is simple
 
-Vlad44#6969
+Vlad44#4444
 :P
 
